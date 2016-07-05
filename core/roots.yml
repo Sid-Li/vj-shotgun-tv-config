@@ -1,0 +1,11 @@
+primary:
+    description: "Assets and Shots library"
+    mac_path:
+    linux_path:
+    windows_path: 'E:\workspace\python\shotgun\projects\X'
+
+output:
+    description: "sequence images of compositing output"
+    mac_path:
+    linux_path:
+    windows_path: 'E:\workspace\python\shotgun\projects\Q'
